@@ -21,6 +21,7 @@ I build and explore **data engineering systems, cloud-native applications, and a
 | [Near Real-Time CDC Lakehouse](https://github.com/Elghouali/cdc-pipeline-bigdata) | PostgreSQL → Debezium/Kafka → Spark → Apache Iceberg, with Trino, React/FastAPI dashboard, and observability configuration. |
 | [Kafka Event-Driven Architecture](https://github.com/Elghouali/TP3-Kafka-Event-Driven-Architecture) | Spring Cloud Stream, Kafka Streams, REST producers, consumers, analytics, and a live dashboard. |
 | [Local LLM Chatbot & Benchmark](https://github.com/Elghouali/ENSET-Chatbot-LLM-Comparison) | Streamlit + Ollama application for comparing local LLM responses, latency, throughput, and system usage. |
+| [AgriTrace — Agricultural Traceability](https://github.com/Elghouali/AgriTrace) | Full-stack MVP exploring farmer-to-consumer lot tracking, QR codes, role-based workflows, and FastAPI/React. |
 | [Spring Cloud & Agentic AI E-Banking](https://github.com/Elghouali/Projet-Synthese-SpringCloud-AgenticAI-EBank) | Academic microservices project exploring Eureka, Gateway, OpenFeign, Resilience4j, Spring AI, and MCP. |
 | [Banking Platform — ADRIA Exercise](https://github.com/Elghouali/elghouali-zakariae-test-adria-pfe-27) | In-progress Spring/Angular architecture with REST, GraphQL, MCP, JWT configuration, and event-driven transactions. |
 
