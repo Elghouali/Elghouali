@@ -1,8 +1,8 @@
-# Hi, I'm Zakariae Elghouali 👋
+# Hi, I'm Zakariae Elghouali 
 
 **Computer Engineering student | Big Data & Cloud Computing | ENSET Mohammedia, Morocco**
 
-🎯 **Seeking a 2027 final-year internship (PFE)** in **Data Engineering** or **Cloud Engineering**.
+**Seeking a 2027 final-year internship (PFE)** in **Data Engineering** or **Cloud Engineering**.
 
 I enjoy designing data pipelines, exploring distributed systems, and connecting software engineering with cloud infrastructure. My goal is to grow into an engineer who can explain the architecture, write maintainable code, validate results, and understand the trade-offs behind a solution.
 
