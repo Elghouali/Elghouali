@@ -10,16 +10,23 @@ ENSET Mohammedia, Morocco | Open to **PFE 2027 internships in Data Engineering a
 
 I study Big Data & Cloud Computing and build projects at the intersection of **data platforms, distributed software and AI**. I am particularly interested in turning raw operational data into reliable, useful datasets and services — from ingestion and transformation to analytics and deployment.
 
+## Engineering experience
+
+- **OCP Group — IROC (Jul–Aug 2026):** PFA internship on industrial water-leak detection using computer vision and AWS cloud architecture design (S3/SNS).
+- **Ministry of National Education — Massar (Jun–Aug 2025):** information systems internship focused on data synchronization, database maintenance and SQL tuning.
+
+[Professional portfolio and CV](https://github.com/Elghouali/Portfolio)
+
 ## Featured engineering projects
 
-| Project | What it demonstrates |
-| --- | --- |
-| **[CDC Medallion Lakehouse](https://github.com/Elghouali/cdc-pipeline-bigdata)** | End-to-end reference architecture: PostgreSQL change data capture, Debezium, Kafka, Spark Structured Streaming, Iceberg Bronze/Silver/Gold tables, Trino and analytics APIs. |
-| **[KODYRA FleetOps](https://github.com/Elghouali/kodyra-fleetops)** | Rental operations demo with booking validation, fleet analytics and an offline Python/SQLite ETL pipeline, data-quality checks, dimensional modeling and CSV exports. |
-| **[Local LLM Chatbot & Benchmark](https://github.com/Elghouali/ENSET-Chatbot-LLM-Comparison)** | Ollama and Streamlit application for comparing local models, measuring latency, throughput and resource usage, and exporting benchmark results. |
-| **[Kafka Event-Driven Architecture](https://github.com/Elghouali/TP3-Kafka-Event-Driven-Architecture)** | Event producers and consumers, stream aggregation and Spring Cloud Stream. |
-| **[Spring Cloud & Agentic AI E-Banking](https://github.com/Elghouali/Projet-Synthese-SpringCloud-AgenticAI-EBank)** | Distributed banking case study with service discovery, API gateway, resilience and a read-only Spring AI/MCP assistant. |
-| **[AgriTrace](https://github.com/Elghouali/AgriTrace)** | Agricultural traceability prototype using FastAPI, React, PostgreSQL and QR codes. |
+| Project | What it demonstrates | Scope |
+| --- | --- | --- |
+| **[CDC Medallion Lakehouse](https://github.com/Elghouali/cdc-pipeline-bigdata)** | PostgreSQL CDC, Debezium, Kafka, Spark Structured Streaming, Iceberg Bronze/Silver/Gold, Trino and analytics APIs | Reference implementation |
+| **[KODYRA FleetOps](https://github.com/Elghouali/kodyra-fleetops)** | Booking validation, Python/SQLite ETL, data quality, dimensional modeling and reporting | [Interactive demo](https://kodyra-fleetops-live.elghoualizakariae.workers.dev/) · fictional data |
+| **[Spring Cloud & Agentic AI E-Banking](https://github.com/Elghouali/Projet-Synthese-SpringCloud-AgenticAI-EBank)** | Service discovery, API gateway, resilience and a read-only Spring AI/MCP assistant | Academic case study |
+| **[Local LLM Chatbot & Benchmark](https://github.com/Elghouali/ENSET-Chatbot-LLM-Comparison)** | Ollama, Streamlit, latency, throughput and resource measurement | Academic evaluation project |
+| **[AgriTrace](https://github.com/Elghouali/AgriTrace)** | FastAPI, React, PostgreSQL and QR-based agricultural traceability | Prototype |
+| **[Kafka Event-Driven Architecture](https://github.com/Elghouali/TP3-Kafka-Event-Driven-Architecture)** | Event producers, consumers, stream aggregation and Spring Cloud Stream | Academic lab |
 
 These repositories include academic projects, reference implementations and product prototypes. See individual READMEs for setup, tests and known limitations; they are not claims of production deployments.
 
@@ -61,6 +68,15 @@ My toolkit combines hands-on project experience with technologies I am actively 
 - **ENSET Mohammedia** — Computer Engineering, Big Data & Cloud Computing
 - **CPGE** — Two years of preparatory studies in mathematics, physics and problem-solving
 - **Cisco certifications** — CCNA, Python Essentials 1 & 2, C Essentials
+
+Additional credentials listed in my current [CV](https://github.com/Elghouali/Portfolio/blob/main/resumeBase/resume.html): Microsoft Certified: Fabric Data Engineer Associate; OCI Data Science Professional, GenAI Professional and AI Foundations. AWS and GCP data engineering learning paths are training, not professional certification exams.
+
+## Explore by domain
+
+- **Data platforms:** [CDC Lakehouse](https://github.com/Elghouali/cdc-pipeline-bigdata), [Kafka lab](https://github.com/Elghouali/TP3-Kafka-Event-Driven-Architecture), [Big Data coursework](https://github.com/Elghouali/BigData).
+- **Cloud and distributed software:** [Spring Cloud microservices](https://github.com/Elghouali/TP2-Spring-Cloud-Microservices), [Agentic AI banking](https://github.com/Elghouali/Projet-Synthese-SpringCloud-AgenticAI-EBank).
+- **Applied AI:** [LLM evaluation](https://github.com/Elghouali/ENSET-Chatbot-LLM-Comparison), [Machine Learning labs](https://github.com/Elghouali/Machine-Learning-TP).
+- **Product engineering:** [FleetOps](https://github.com/Elghouali/kodyra-fleetops), [AgriTrace](https://github.com/Elghouali/AgriTrace).
 
 ## Engineering principles
 
